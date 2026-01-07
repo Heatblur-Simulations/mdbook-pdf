@@ -18,8 +18,8 @@ include = [
 [dependencies]
 env_logger = "0"
 lazy_static = "1"
-mdbook = "0"
-headless_chrome = "1"
+mdbook = "=0.4.42"
+headless_chrome = "=1.0.9"
 regex = "1"
 serde = "1"
 serde_derive = "1"
